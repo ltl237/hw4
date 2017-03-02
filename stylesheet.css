@@ -1,0 +1,15 @@
+p {
+	margin:0;
+	font-size:3em;
+}
+
+svg.elements {
+	width:7em;
+	height:7em;
+	stroke:black;
+	fill:none;
+}
+
+svg.elements:hover {
+	stroke:orange;
+}
